@@ -58,6 +58,11 @@ public class StringExplorer {
       System.out.println("SUBSTRING PRATICE");
       System.out.println(sample.substring(0));
       // equals
+      String str1 = "Decode";
+      String str2 = "Decode";
+
+      System.out.println("Decpde == Decode?: " + str1.equals(str2));
+
 
 	}
 }
